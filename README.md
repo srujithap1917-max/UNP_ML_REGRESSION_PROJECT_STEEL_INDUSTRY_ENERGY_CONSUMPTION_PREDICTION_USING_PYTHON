@@ -8,7 +8,7 @@ This project focuses on predicting electricity consumption in the steel industry
 Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow and Keras.
 
 GOOGLE COLABFILE LINK:
-https://drive.google.com/file/d/1yiTxMwC7hPeCr6pVUSKsthPaJR7nd1XS/view?usp=sharing
+https://drive.google.com/file/d/1costE8KKUF0PUseZVxN-X0E0YIYY1M2R/view?usp=sharing
 
 PROJECT PRESENTATION FILE LINK:
 https://docs.google.com/presentation/d/1tm6pnAwyZn_z75gSUwA3ne_PB3IpLiLY/edit?usp=sharing&ouid=102373457809823357669&rtpof=true&sd=true
